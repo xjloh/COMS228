@@ -1,4 +1,4 @@
-# COM S 228
+# COM S 228 (Spring 2019)
 ## Introduction to Data Structures
 ### Topics
 - Collection Interface and Iterators
